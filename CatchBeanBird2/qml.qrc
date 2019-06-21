@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BeanBird.qml</file>
+        <file>Button.qml</file>
+        <file>images/beanbird.png</file>
+        <file>images/blood.png</file>
+        <file>images/fabric_tile.jpg</file>
+        <file>images/fabric_tile2.jpg</file>
+        <file>images/particle1.png</file>
+        <file>images/particle2.png</file>
+        <file>sounds/.DS_Store</file>
+        <file>sounds/background.wav</file>
+        <file>sounds/end.wav</file>
+        <file>sounds/punch.wav</file>
+        <file>main.cpp</file>
+    </qresource>
+</RCC>

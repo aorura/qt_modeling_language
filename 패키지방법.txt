@@ -1,0 +1,13 @@
+macdeployqt
+
+패키징
+MS Windows
+- windeployqt 유틸리티
+- 공유 라이브러리
+
+MacOS
+- macdeployqt 유틸리티
+
+안드로이다
+-QT Create에서 자동으로 패키징까지 해준다.
+- androiddeployqt 유틸리티
